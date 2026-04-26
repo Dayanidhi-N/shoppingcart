@@ -8,7 +8,7 @@ A modern e-commerce frontend built using React (Vite), featuring product listing
 
 ### 🏠 Home / Product Listing
 
-![Home Page](./screenshots/home.png)
+![Home](https://raw.githubusercontent.com/Dayanidhi-N/shoppingcart/main/screenshots/home.png)
 
 ### ❤️ Wishlist Page
 
