@@ -4,6 +4,22 @@ A modern e-commerce frontend built using React (Vite), featuring product listing
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home / Product Listing
+
+![Home Page](./screenshots/home.png)
+
+### ❤️ Wishlist Page
+
+![Wishlist Page](./screenshots/wishlist.png)
+
+### 🛒 Cart Page
+
+![Cart Page](./screenshots/cart.png)
+
+---
+
 ## 🚀 Features
 
 - 📦 Product listing (fetched from API)
