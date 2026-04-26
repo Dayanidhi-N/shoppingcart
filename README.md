@@ -1,6 +1,6 @@
 # 🛒 Shopping Cart App (React + Vite + Redux Toolkit)
 
-A modern e-commerce frontend built using React (Vite), featuring product listing, wishlist, and cart functionality. The application demonstrates efficient state management using Redux Toolkit and asynchronous API handling with createAsyncThunk.
+A modern e-commerce frontend built using React (Vite), featuring product listing, wishlist, and cart functionality. The application demonstrates efficient state management using Redux Toolkit and asynchronous API handling with `createAsyncThunk`.
 
 ---
 
@@ -36,7 +36,7 @@ A modern e-commerce frontend built using React (Vite), featuring product listing
 - React (Vite)
 - Redux Toolkit (RTK)
 - JavaScript (ES6+)
-- HTML5 & CSS3
+- HTML5 & CSS3git add README.md
 
 ---
 
